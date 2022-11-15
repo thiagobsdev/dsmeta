@@ -17,3 +17,13 @@ a, a:hover , a:visited{
     color:unset;
     text-decoration: none;
 }
+
+.desmeta-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto; 
+}
+
+#sales {
+    padding: 40px 10px;
+}
